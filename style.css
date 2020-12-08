@@ -1,0 +1,69 @@
+.menu {
+    list-style: none;
+    font-family: 'Turret Road', cursive;
+    position: fixed;
+    cursor: grab;
+
+    background: cyan;
+    margin-right: 100px;
+    top: 0px;
+    width: 100%;
+}
+
+#writings a {
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: blueviolet !important;
+}
+
+.contact1 a {
+    color: aliceblue;
+    text-shadow: none;
+}
+
+
+
+
+
+.contact1 h3 {
+    display: inline;
+}
+
+#contact {
+    width: 100%;
+    background: firebrick;
+}
+
+
+.link {
+    float: left;
+    padding: 5px;
+    font-size: 20px;
+    display: inline;
+}
+
+.link:hover {
+
+    background: rgb(131, 58, 180);
+    background: radial-gradient(circle, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+
+    text-decoration: underline;
+
+}
+
+html scroll-behavior: smooth;
+
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+    text-shadow: 2px 2px gainsboro;
+
+}
+
+.article:hover {
+    color: darkturquoise;
+
+
+}
